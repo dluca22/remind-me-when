@@ -1,6 +1,7 @@
 # remind-me-when
 
-##*project currently suspended*
+## *project currently suspended*
+
 This is my first approach to Android Studio.
 
 Will be adding and updating the README file along the way
